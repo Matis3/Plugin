@@ -1,2 +1,1 @@
-Some Stuff i made. 
-# Plugin
+Here are some small random things I made;)
